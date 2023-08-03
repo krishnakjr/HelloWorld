@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D807-C9BA
-
- Directory of C:\Users\ks\OneDrive\Desktop\KrishnaTemp\GitFolder
-
-08/03/2023  12:10 AM    <DIR>          .
-08/03/2023  12:10 AM    <DIR>          ..
-08/03/2023  12:10 AM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  19,538,354,176 bytes free
+Change1
